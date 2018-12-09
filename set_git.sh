@@ -9,6 +9,9 @@ echo
 read -p 'Git repository url: ' upstreamVar
 read -p 'Git Username: ' userVar
 read -p 'Git email: ' emailVar
+#read -p 'https://github.com/yazuyang/Udacity_SDCE' upstreamVar
+#read -p 'yazuyang' userVar
+#read -p '18681868aA!' emailVar
 
 echo
 echo Thank you $userVar!, we now have your credentials
